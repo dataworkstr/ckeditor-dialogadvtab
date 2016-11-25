@@ -1,0 +1,15 @@
+{
+  "name": "dialogadvtab",
+  "authors": [
+    "Dataworks"
+  ],
+  "description": "",
+  "main": "plugin.js",
+  "keywords": [
+    "ckeditor",
+    "dialog",
+    "advanged"
+  ],
+  "license": "MIT",
+  "homepage": ""
+}
